@@ -1,0 +1,7 @@
+# Ignore the actual cookie file
+config/sptlrx/config.yaml
+
+# Ignore large/junk files
+.cache/
+*.log
+node_modules/
